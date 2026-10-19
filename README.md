@@ -56,7 +56,7 @@ You are free to interpret the topic in any direction you want.
 
 ### Budget and Material Costs
 
-* You have up to 1,000 EUR available for materials. 
+* You have up to 1000 EUR available for materials. 
 * The budget is given out on a "needs basis", meaning there must be clear reasons for spending it.
 * There are strict rules regarding what can be purchased and how money must be spent. If these rules are not followed, your expenses may not be reimbursed.
 
