@@ -3,7 +3,6 @@
 Lena Gieseke | l.gieseke@filmuniversitaet.de  
 
 ---
-* [Society is shaped by the stories we tell and the stories we choose to listen to.](#society-is-shaped-by-the-stories-we-tell-and-the-stories-we-choose-to-listen-to)
 * [Your Project](#your-project)
 * [Setup](#setup)
     * [Budget and Material Costs](#budget-and-material-costs)
@@ -26,7 +25,7 @@ The focus is on **creating one shared project as a group**. For this specific ex
 
 # Topic ***Who Told You That?***
 
-## Society is shaped by the stories we tell and the stories we choose to listen to.
+**Society is shaped by the stories we tell and the stories we choose to listen to.**
 
 > For the 56th edition of Sehsüchte, we want to challenge the regressive narratives that have once again grown louder, as well as rigid notions of society and self. Who gets to decide how we are supposed to imagine living together?
   
@@ -46,13 +45,14 @@ You are free to interpret the topic in any direction you want.
 * You work together as a class on this project.
     * The project must be a cohesive whole but can consist of different parts or can be a collection of pieces.
 * You are free in choosing a format for the project, it can be in analog space, online or be a hybrid.
+    * The previous years were quite similar. This is a coincident. Feel free to do something completely different.
 * The project must refer to the topic in some form.
 
 ## Setup
 
 * The exhibition of the project must be organized in its entirety by you. 
-    * The workshop regarding the Sehsüchte exhibition will also provide information valuable to the collaborative project. Make sure that you all attend the workshops with Arthur.
-    * Please keep in mind that there might be strict constraints for analog setups such as installations due to e.g. safety regulations.
+* The workshop regarding the Sehsüchte exhibition will also provide information valuable to the collaborative project. Make sure that you all attend the workshops with Arthur.
+* Please keep in mind that there might be strict constraints for analog setups such as installations due to e.g. safety regulations.
 
 ### Budget and Material Costs
 
@@ -60,7 +60,7 @@ You are free to interpret the topic in any direction you want.
 * The budget is given out on a "needs basis", meaning there must be clear reasons for spending it.
 * There are strict rules regarding what can be purchased and how money must be spent. If these rules are not followed, your expenses may not be reimbursed.
 
-Process (TO BE CONFIRMED)
+Process (TO BE CONFIRMED BY LENA)
 
 1. Prepare a project description and one detailed purchase list.
     * The list should be structured by categories and include detailed item descriptions, quantities, and net costs per item.
@@ -74,7 +74,7 @@ Process (TO BE CONFIRMED)
 3. Lena submits the approved list to the faculty.
     * Only after the faculty has officially approved the budget plan can you start purchasing materials.
     * The faculty will specify rules for the purchasing process, which you must follow exactly.
-4. Allow approximately four weeks from submitting your budget plan to Lena until you receive the faculty’s final approval.
+4. Allow approximately six weeks from submitting your budget plan to Lena until you receive the faculty’s final approval.
 
 General Rules (these might be expanded on by the faculty)
 
