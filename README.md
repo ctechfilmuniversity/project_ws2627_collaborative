@@ -12,6 +12,7 @@ Lena Gieseke | l.gieseke@filmuniversitaet.de
     * [Project Documentation](#project-documentation)
 * [Exhibit](#exhibit)
 * [Grading](#grading)
+* [Tipps From Last Year's Students](#tipps-from-last-years-students)
 * [Policies](#policies)
 * [Inclusivity Statement](#inclusivity-statement)
 * [Stress Culture](#stress-culture)
@@ -124,8 +125,8 @@ The submission consists of two parts:
 
 The common project documentation must include:
 
-* A link to a **polished public website** with a documentation of your project
-* The webpage can be simple, e.g., it can be a GitHub page but the standard notion interface is not neough.
+* A link to a **polished website** with a documentation of your project meant for the general public
+    * The webpage can be simple, e.g., it can be a GitHub page but the standard github or notion interface is not enough.
 * Your results must be fully understandable based on this page (e.g. to someone who knows nothing about your project)
 * You are free to design this page, but you must cover the following points:
     * Title
@@ -175,6 +176,17 @@ An individual grade will be given for
 * the quality and quantity of your individual tasks
 * your involvement in setting up the Sehsüchte exhibit of the project
 * your personal influence on the results (if applicable)
+
+## Tipps From Last Year's Students
+
+[https://half-spruce-004.notion.site/Final-Documentation-2ff46930f083805cb3fcccc97d576eaf](https://half-spruce-004.notion.site/Final-Documentation-2ff46930f083805cb3fcccc97d576eaf)  
+(Note: this year a notion.site is not sufficient and project webpage)  
+
+- Using both Notion and Discord worked really well for us and is a setup we would definitely recommend to future teams.
+- The way we conducted the project pitch was effective and helped keep it concise, preventing it from running too long.
+- Even with different assigned roles, it’s important that major project decisions are discussed with everyone or at least communicated clearly. Lack of communication can create stress or feelings of exclusion.
+- Establish a code word for signaling difficult moments or disagreements. Even if it feels a bit silly, it helps diffuse tension. Also, be open with your team about personal challenges or difficult days and support each other. Avoid ghosting or passive-aggressive behavior, as it can undermine team cohesion.
+- Make sure to have a finished prototype ready at least a few days before the final presentation to allow time for testing and last-minute adjustments.
 
 
 ## Policies
