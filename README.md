@@ -75,7 +75,7 @@ Process (TO BE CONFIRMED BY LENA)
 3. Lena submits the approved list to the faculty.
     * Only after the faculty has officially approved the budget plan can you start purchasing materials.
     * The faculty will specify rules for the purchasing process, which you must follow exactly.
-4. Allow approximately six weeks from submitting your budget plan to Lena until you receive the faculty’s final approval.
+4. Allow approximately eight weeks from submitting your budget plan to Lena until you receive the faculty’s final approval.
 
 General Rules (these might be expanded on by the faculty)
 
